@@ -8,6 +8,10 @@ Buku Tamu adalah aplikasi sederhana untuk mencatat data tamu yang berkunjung.
 
 Aplikasi ini dibangun menggunakan framework Laravel dan menggunakan database MySQL untuk menyimpan data tamu. Aplikasi ini memiliki fitur seperti input data tamu, melihat daftar tamu, mengedit data tamu, dan menghapus data tamu.
 
+## Tampilan Halaman Tamu
+![Halaman Tamu](public/images/hasil-projek.png)
+
+
 ## Instalasi
 
 Berikut adalah langkah-langkah untuk menginstal aplikasi ini di lingkungan lokal:
