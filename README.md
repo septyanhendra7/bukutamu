@@ -11,6 +11,9 @@ Aplikasi ini dibangun menggunakan framework Laravel dan menggunakan database MyS
 ## Tampilan Halaman Tamu
 ![Halaman Tamu](public/images/halamantamu.jpg)
 
+## Tampilan Halaman Admin
+![Halaman Tamu](public/images/halamanadmin.jpg)
+
 
 ## Instalasi
 
