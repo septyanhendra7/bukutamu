@@ -91,8 +91,6 @@ Anda dapat melakukan kontribusi terhadap proyek ini dengan cara berikut:
 
 6. Buat Pull Request di repositori utama.
 
-## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 
