@@ -1,5 +1,4 @@
-Berikut ini adalah contoh isi file `README.md` yang dapat Anda gunakan untuk menjelaskan proyek Anda di repository GitHub:
-
+PROJEK HOME TEST BUKU TAMU ONLINE DENGAN LARAVEL 8 DAN BOOTSTRAP 5
 ```
 # Buku Tamu
 
@@ -90,6 +89,3 @@ Anda dapat melakukan kontribusi terhadap proyek ini dengan cara berikut:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ```
 
-Anda dapat mengganti konten di atas sesuai dengan informasi proyek Anda, seperti deskripsi, langkah-langkah instalasi, dan cara berkontribusi. Juga pastikan untuk menyertakan informasi lisensi yang sesuai dengan proyek Anda.
-
-Setelah Anda membuat file `README.md` dengan konten yang sesuai, simpan file tersebut di direktori utama proyek Anda, dan lakukan commit dan push ke repository GitHub Anda. Nantinya, konten dari `README.md` akan ditampilkan di halaman utama repository GitHub Anda.
